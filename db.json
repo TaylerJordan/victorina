@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "question": "what color of rainbow?",
+      "answers": ["blue", "yellow", "red", "green"],
+      "trueAnswer": 0
+    },
+    {
+      "question": "what time to go fap?",
+      "answers": ["at 11", "at 12", "at 01", "at 02"],
+      "trueAnswer": 1
+    },
+    {
+      "question": "what time to go sleep?",
+      "answers": ["at 11", "at 12", "at 01", "at 02"],
+      "trueAnswer": 1
+    },
+    {
+      "question": "what time to go eat?",
+      "answers": ["at 11", "at 12", "at 01", "at 02"],
+      "trueAnswer": 1
+    }
+  ]
+}
