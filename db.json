@@ -13,12 +13,12 @@
     {
       "question": "what time to go sleep?",
       "answers": ["at 11", "at 12", "at 01", "at 02"],
-      "trueAnswer": 1
+      "trueAnswer": 2
     },
     {
       "question": "what time to go eat?",
       "answers": ["at 11", "at 12", "at 01", "at 02"],
-      "trueAnswer": 1
+      "trueAnswer": 3
     }
   ]
 }
